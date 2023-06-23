@@ -1,0 +1,9 @@
+{
+  "Index": {
+    "title": "This is de"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, de {German} en {English} other {Unknown}}"
+  }
+}
